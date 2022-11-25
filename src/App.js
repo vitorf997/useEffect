@@ -8,7 +8,7 @@ function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   const loginHandler = (email, password) => {
-    // We should of course check email and password
+    // We should of course check email and passworda
     // But it's just a dummy/ demo anyways
     setIsLoggedIn(true);
   };
